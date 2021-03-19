@@ -1,0 +1,20 @@
+Organization -> many Accounts -> each Account -> have many Property -> each Property -> has many Views
+
+Each Property has unique Tracking ID
+
+View -> Filters eg. All Data, India, North America
+Goal 
+
+View - cannot accept past data, only administrators can recover data within a limited time
+
+Manage users: Add or remove user access
+
+Edit: Change configuration settings
+
+Collaborate: Share parts of data or settings
+
+Read and analyze: Restricts changes to the settings or adding new users
+
+
+Setup Google Analytics account:
+analytics.google.com
